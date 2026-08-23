@@ -1,0 +1,6 @@
+{
+  "trustedtaps": [
+    "https://gitlab.com/other/repo",
+    "thirdparty/foo"
+  ]
+}
